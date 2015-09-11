@@ -1440,6 +1440,9 @@ ul#desktopMenu li ul li:hover {
 #showSlideMenu{
 	padding-top:10px;
 	float:left;
+	width:54%;
+	height:35px;
+	overflow:hidden;
 }
 .top-menu{
 	height:43px;
