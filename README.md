@@ -1,6 +1,6 @@
 # 3dcart Theme: swirl-girls-html5
 
-http://themes.3dcart.com/
+http://themes.3dcart.com/swirl-girl-html5_p_204.html
 
 ## Installation
 
